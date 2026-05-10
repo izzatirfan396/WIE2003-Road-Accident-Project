@@ -31,13 +31,12 @@ st.markdown(
             padding-bottom: 2.5rem;
         }
         div[data-testid="stMetric"] {
-            background-color: #f8fafc;
             border: 1px solid #e5e7eb;
             border-radius: 8px;
             padding: 14px 16px;
         }
         div[data-testid="stMetricLabel"] {
-            color: #475569;
+            color: inherit;
         }
         .section-note {
             color: #475569;
